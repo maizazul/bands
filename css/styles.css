@@ -1,0 +1,18 @@
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: aqua;
+  padding: 10px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+}
+
+img{
+    width:540px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
