@@ -3,6 +3,8 @@
   float: right;
   background-color: aqua;
   padding: 10px;
+  border: 2px solid green;
+  margin: 12px;
 }
 
 h1 {
@@ -15,4 +17,5 @@ img{
     height: auto;
     display: block;
     margin: 0 auto;
+    padding: 30px;
 }
